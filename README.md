@@ -1,2 +1,2 @@
-# coreJava
+# Core Java
 Core Java
